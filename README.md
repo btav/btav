@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+🔭 I'm currently working as a Senior Software Enginer at [Spotify](https://spotify.com)<br>
+📢 I help organize [Ottawa ReactJS Meetup](https://www.meetup.com/ottawa-reactjs-meetup/)<br>
+
+
+Pronouns: he/him
+
 
 <!--
 **btav/btav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
