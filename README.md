@@ -1,11 +1,7 @@
 ### Hello there 👋
-<!--
+
 🔭 I'm currently working as a Senior Software Engineer at [Spotify](https://spotify.com)<br>
 📢 I help organize [Ottawa ReactJS Meetup](https://www.meetup.com/ottawa-reactjs-meetup/)<br>
-
-
-Pronouns: he/him
--->
 
 
 <!--
