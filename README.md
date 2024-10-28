@@ -3,5 +3,5 @@
   <br />
   <code>A software engineer passionated about their craft, based in Ottawa, Canada 🇨🇦</code>
   <br />
-  <code>📫 Reach me at <a href="https://twitter.com/codingwithbrian">@codingwithbrian</a> or <a href="mailto:brian@btav.dev">brian@btav.dev</a></code>
+  <code>📫 Reach me at <a href="mailto:brian@btav.dev">brian@btav.dev</a> or <a href="https://twitter.com/codingwithbrian">@codingwithbrian</a></code>
 </div>
